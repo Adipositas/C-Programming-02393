@@ -3,4 +3,4 @@
 
 By: David Norsk
 
-I hope that no one finds it and copies it for solving the exercises!
+I hope that no one finds this and copies it for solving the exercises!
